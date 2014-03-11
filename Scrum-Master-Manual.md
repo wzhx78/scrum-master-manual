@@ -19,6 +19,7 @@ The following list illustrates the main activities which scrum master should att
  7. **Retrospective Meeting**
  8. **Update Team Sprint Record**
  9. **Close User Story**
+ 10. **Trace Demo Comments fixing situation**
 
 COOPERATORS OF SCRUM MASTER
 ---------------
