@@ -72,7 +72,7 @@ APPENDIX
  
  Requirement Kickoff > Planning Game > Development > Test > Demo > DoD > Close User Story > Project Release* > Retrospective > Sharing*
  3. **STORY POINT**
- 4. **TEAM VELOCITY **
+ 4. **TEAM VELOCITY**
  5. **SCRUM FLOW**
  ![enter image description here][1]
 
