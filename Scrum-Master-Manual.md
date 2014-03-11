@@ -1,4 +1,4 @@
-SCRUM MASTER MANUAL	{#welcome}
+SCRUM MASTER MANUAL
 =====================
 
 
@@ -66,8 +66,10 @@ APPENDIX
 --------------
 
  1. **MSDP DOD CHECKLIST**
+ 
  http://wiki.msdp.sh.cn.ao.ericsson.se/org:od:checklist:definition-of-done?s[]=definition&s[]=done
  2. **SPRINT BASIC FLOW**
+ 
  Requirement Kickoff > Planning Game > Development > Test > Demo > DoD > Close User Story > Project Release* > Retrospective > Sharing*
  3. **STORY POINT**
  4. **TEAM VELOCITY **
